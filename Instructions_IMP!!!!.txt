@@ -1,0 +1,16 @@
+Download the whole folder including .File_en to run program and load resources successfully.
+use :
+Draw_Graph_Master_java 17.0.1.jar	--> for java 17.0.1 version
+Draw_Graph_Master_java 17.0.1.exe
+Draw_Graph_Master_java 16.0.2.jar	--> for java 16.0.2 version
+Draw_Graph_Master_java 17.0.1.exe
+
+// ============================================================================
+//   Author:  Aman Arya
+//   Taken From: https://drive.google.com/drive/folders/1OweSxgVqkqLZrmszZWdzJXRuPuRQeJ8n?usp=sharing
+//   Date:  16 / november / 2021
+//   File: Draw_Graph_Master
+//   Description: The following demonstrates the use of java swing components 
+//     and use of dsa to draw a graph of an explicit equation.
+//     Other instructions provided in the program
+// ============================================================================
