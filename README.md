@@ -1,8 +1,8 @@
 # Draw-Graphs
 App to draw graphs of explicit equations using JAVA SWING and dsa <br>
 <br>
-preview of app : <br>
-![2021-11-16 13-42-25](https://user-images.githubusercontent.com/86537681/174490952-c555a4bf-e4d1-4136-a094-9a30d7a2f8e2.gif) <br>
+Preview of App : <br>
+![draw_graph_uplaod_video](https://user-images.githubusercontent.com/86537681/175101751-1a584cba-6753-4c6f-8994-93b9e9faee72.gif) <br>
 ![Screenshot (704)](https://user-images.githubusercontent.com/86537681/174491184-8785a530-d7c5-4967-a263-ba64296ce4c2.png) <br>
 ![Screenshot (705)](https://user-images.githubusercontent.com/86537681/174491187-16c4f8a3-0a3e-437f-9b98-9a4b659ac937.png) <br>
 ![Screenshot (707)](https://user-images.githubusercontent.com/86537681/174491189-7cf02d62-ffba-45f1-bc2d-3f7f59417d90.png) <br>
