@@ -1,5 +1,5 @@
 # Draw-Graphs
-App to draw graphs of explicit equations using JAVA SWING and dsa <br>
+Designed and implemented a Java Swing-based application enabling users to input explicit equations and dynamically visualize their graphs on a user-friendly interface, showcasing proficiency in Java programming and GUI development <br>
 <br>
 Preview of App : <br>
 ![draw_graph_uplaod_video](https://user-images.githubusercontent.com/86537681/175101751-1a584cba-6753-4c6f-8994-93b9e9faee72.gif) <br>
